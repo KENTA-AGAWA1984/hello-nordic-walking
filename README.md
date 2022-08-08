@@ -32,7 +32,7 @@ https://docs.google.com/spreadsheets/d/1PEFxZLvsJUrImqYwvxRdSfcNKipthk_80F1jaBar
  ※ DLデータのグラフ化を実装予定
 
 ## データベース設計
-
+https://user-images.githubusercontent.com/102355885/183355008-0d4d9a1f-ffd2-4b0e-8b13-96bc5c77b449.png
 
 ## 画面遷移図
 
